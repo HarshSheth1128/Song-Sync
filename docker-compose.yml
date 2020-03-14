@@ -1,0 +1,38 @@
+version: '3.7'
+
+services:
+
+# ## API Container
+#   api:
+#     container_name: api
+#     build: ./api
+#     volumes:
+#       - './api:/usr/src/api'
+#     ports:
+#       - '4001:4000'
+#     environment:
+#       - NODE_ENV=development
+
+# # UI Container
+#   ui:
+#     container_name: ui
+#     build: 
+#         context: ./ui
+#         dockerfile: ../docker/ui/Dockerfile
+#     volumes:
+#     - './ui:/usr/src/ui/'
+#     - '/usr/src/ui/node_modules'
+#     ports:
+#     - '3001:3000'
+#     environment:
+#     - NODE_ENV=development
+
+# Sass container
+  sass:
+    container_name: sass_watcher
+    build:
+      context: ./ui
+      dockerfile: ../docker/sass/Dockerfile
+    volumes:
+      - ./ui/src:/usr/src/ui/src
+    # command: tail -F anything

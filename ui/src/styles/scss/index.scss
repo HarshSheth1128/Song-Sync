@@ -1,1 +1,29 @@
-@use 'pages/LoginPage';
+@import './pages/SplashPage/SplashPage.scss';
+@import './pages/MainPage/MainPage.scss';
+@import './pages/SignupPage/SignupPage.scss';
+@import './pages/LoginPage/LoginPage.scss';
+@import './common/fonts/fonts.scss';
+@import './common/components/SearchBar.scss';
+@import './common/components/InfoSection.scss';
+@import './common/components/PlaylistInfo.scss';
+@import './common/components/SubscribedPlaylists.scss';
+@import './common/components/InfoSection.scss';
+@import './common/components/SyncSettings.scss';
+@import './common/components/Button.scss';
+
+@include fonts;
+@include Button;
+@include SplashPage;
+@include MainPage;
+@include SignupPage;
+@include LoginPage;
+@include SearchBar;
+@include InfoSection;
+@include PlaylistInfo;
+@include SubscribedPlaylists;
+@include InfoSection;
+@include SyncSettings;
+
+:focus{
+    outline: none;
+}

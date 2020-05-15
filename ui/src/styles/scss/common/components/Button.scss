@@ -1,0 +1,20 @@
+@mixin Button {
+  .button-primary {
+    border-radius: 5px;
+    background-color: rgba(0,0,0,0.0);
+    color: white;
+    border: 1px solid white;
+    transition: background-color 0.5s ease;
+  }
+
+  .button-primary:hover {
+    border-radius: 5px;
+    background-color: rgba(255,255,255,1);
+    color: black;
+    border: 1px solid white;
+  }
+
+  .button-primary:focus {
+    outline: none;
+  }
+}

@@ -1,0 +1,81 @@
+@mixin SyncSettings {
+
+  .sync-settings-root {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 10px;
+    box-sizing: border-box;
+
+    .tracks-title-label {
+      font-size: 1.1em;
+      font-weight: bold;
+      background: rgba(0, 0, 0, 0.08);
+      border-radius: 10px;
+      padding: 10px 15px;
+      margin-bottom: 10px;
+      display: inline-block;
+      color: white;
+      font-weight: bold;
+    }
+
+    .small {
+      font-size: 1.0em;
+    }
+
+    .tracks-subtitle-label {
+      color: white;
+      margin-left: 5px;
+      font-size: 0.8em;
+    }
+
+    .settings-input {
+      background: rgba(0, 0, 0, 0.08);
+      border-radius: 10px;
+      width: 100%;
+      height: 40px;
+      border: none;
+      font-size: 1em;
+      color: white;
+      padding: 10px;
+      padding-left: 20px;
+      box-sizing: border-box;
+      font-weight: bold;
+      font-family: Lato;
+    }
+
+    .settings-item-container {
+      margin-bottom: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+
+      .title-subtitle-row {
+        display: flex;
+        align-items: center;
+      }
+
+      .input-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        width: 100%;
+        align-items: center;
+
+        .radio-input {
+          margin-right: 10px;
+          margin-left: 20px;
+        }
+      }
+    }
+
+    .meta-data-container {
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 50px;
+    }
+  }
+}

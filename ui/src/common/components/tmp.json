@@ -1,0 +1,752 @@
+{
+  "playlists": {
+    "href": "https://api.spotify.com/v1/search?query=piano&type=playlist&offset=0&limit=20",
+    "items": [
+      {
+        "collaborative": false,
+        "description": "A calm piano soundtrack to all activities.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX7K31D69s4M1"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7K31D69s4M1",
+        "id": "37i9dQZF1DX7K31D69s4M1",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002a461b85872ea87bb0de00128",
+            "width": null
+          }
+        ],
+        "name": "Piano in the Background",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU4NjI1MjYxNCwwMDAwMDBhZDAwMDAwMTcxNTQwNjBhYzQwMDAwMDE2ZDE1MWU4NDk0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7K31D69s4M1/tracks",
+          "total": 304
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX7K31D69s4M1"
+      },
+      {
+        "collaborative": false,
+        "description": "Beautiful classical piano music from the greatest composers and peaceful unaccompanied piano versions of popular songs. Piano Guys, Chopin, Mozart, Liszt, Alexis Ffrench and more.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/7hXPli2ds4vLmFiZ8wmMkz"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7hXPli2ds4vLmFiZ8wmMkz",
+        "id": "7hXPli2ds4vLmFiZ8wmMkz",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706c0000da840852f9a4c56801841ef7659a",
+            "width": null
+          }
+        ],
+        "name": "Piano Classics",
+        "owner": {
+          "display_name": "Sony Classical & Jazz Sweden",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/sonyclassicalandjazzsweden"
+          },
+          "href": "https://api.spotify.com/v1/users/sonyclassicalandjazzsweden",
+          "id": "sonyclassicalandjazzsweden",
+          "type": "user",
+          "uri": "spotify:user:sonyclassicalandjazzsweden"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTMyMiwwODU0Yjg5ZDcyZDY2MzYyMjVkNDFmOTBmM2NkY2M0ZGYyNDQ0OGQ4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/7hXPli2ds4vLmFiZ8wmMkz/tracks",
+          "total": 275
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7hXPli2ds4vLmFiZ8wmMkz"
+      },
+      {
+        "collaborative": false,
+        "description": "Relax and indulge with beautiful piano pieces",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4sWSpwq3LiO",
+        "id": "37i9dQZF1DX4sWSpwq3LiO",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002ca5a7517156021292e5663a6",
+            "width": null
+          }
+        ],
+        "name": "Peaceful Piano",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU4NjI0NjYwMiwwMDAwMDBiYzAwMDAwMTcxNTNhYTRkNTEwMDAwMDE2ZDE1NTk1OTFk",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4sWSpwq3LiO/tracks",
+          "total": 255
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4sWSpwq3LiO"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/5013r0nTRXiIxf0YrhfRDk"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5013r0nTRXiIxf0YrhfRDk",
+        "id": "5013r0nTRXiIxf0YrhfRDk",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706c0000da847b3b075989fb0d7bb19e8a6e",
+            "width": null
+          }
+        ],
+        "name": "Piano Covers Pop Piano Covers 🎹🎶 Klaviermusik Musica de Piano Instrumental Soft Piano Calm Piano",
+        "owner": {
+          "display_name": "Blue Light Music",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/bhswnj1ygcvotrp20qtdp538g"
+          },
+          "href": "https://api.spotify.com/v1/users/bhswnj1ygcvotrp20qtdp538g",
+          "id": "bhswnj1ygcvotrp20qtdp538g",
+          "type": "user",
+          "uri": "spotify:user:bhswnj1ygcvotrp20qtdp538g"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "NTQxLDU0ZDk4OTExMWQyZjEzNTg3OWQxNGI0NjU5NDE4NDRkYzBkNWNmNjQ=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/5013r0nTRXiIxf0YrhfRDk/tracks",
+          "total": 89
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5013r0nTRXiIxf0YrhfRDk"
+      },
+      {
+        "collaborative": false,
+        "description": "Vocals and keys, front and center. Cover: Brandi Carlile & Sam Smith",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWVIzZt2GAU4X"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVIzZt2GAU4X",
+        "id": "37i9dQZF1DWVIzZt2GAU4X",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002ce8306aa382e3f6ecc58fd80",
+            "width": null
+          }
+        ],
+        "name": "Piano Ballads",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU4NjY1NDIzMiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVIzZt2GAU4X/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWVIzZt2GAU4X"
+      },
+      {
+        "collaborative": false,
+        "description": "Relaxing and comforting piano music.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWVEerxa93vDU"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVEerxa93vDU",
+        "id": "37i9dQZF1DWVEerxa93vDU",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000270ca731918c9aa6e9bdadbc4",
+            "width": null
+          }
+        ],
+        "name": "Piano Comfort",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU4NjI2OTY2NCwwMDAwMDAzODAwMDAwMTcxNTUwYTM1NzAwMDAwMDE2ZDAwYjcwZDNi",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVEerxa93vDU/tracks",
+          "total": 125
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWVEerxa93vDU"
+      },
+      {
+        "collaborative": false,
+        "description": "Piano music for your massage session.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX1ifjh7WmfEU"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1ifjh7WmfEU",
+        "id": "37i9dQZF1DX1ifjh7WmfEU",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000273bf9892af8552413da3b752",
+            "width": null
+          }
+        ],
+        "name": "Piano Massage",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU4NjMzOTA1NSwwMDAwMDAxOTAwMDAwMTcxNTkyZDA4ZTcwMDAwMDE3MGFmMzU1NjQ3",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1ifjh7WmfEU/tracks",
+          "total": 141
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX1ifjh7WmfEU"
+      },
+      {
+        "collaborative": false,
+        "description": "Bedtime. Drift off with peaceful classical songs. Clair De Lune, Gymnopedie, Canon In D, Fur Elise &amp; Clavierbuchlein, plus beautiful movie themes and hidden gems. Playlist updated reguarly - FOLLOW👇 for updates! <a href=\"https://open.spotify.com/user/doublejmusicltd\">Browse all our playlists</a> at <a href=\"http://doublejmusic.com/\">doublejmusic.com</a>!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/5VYgl1wKYoh6mdDgbGcPlH"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5VYgl1wKYoh6mdDgbGcPlH",
+        "id": "5VYgl1wKYoh6mdDgbGcPlH",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706c0000da84eebc28cb2eb025c0b0b7b37a",
+            "width": null
+          }
+        ],
+        "name": "Piano Sleep 🌙 Moonlight Sonatas",
+        "owner": {
+          "display_name": "Double J Music",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/doublejmusicltd"
+          },
+          "href": "https://api.spotify.com/v1/users/doublejmusicltd",
+          "id": "doublejmusicltd",
+          "type": "user",
+          "uri": "spotify:user:doublejmusicltd"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "NzU0NSxmOGJlNTJlNWE4YTM1YmNlNTM5YzdmYTc1OWIzY2VjZmMwYTIxZmM5",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/5VYgl1wKYoh6mdDgbGcPlH/tracks",
+          "total": 262
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5VYgl1wKYoh6mdDgbGcPlH"
+      },
+      {
+        "collaborative": false,
+        "description": "100 best pieces for unaccompanied  piano(s), played by some of the most brilliant pianists in modern recording era. From the most familiar masterpieces, to many little known gems.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXah8e1pvF5oE"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXah8e1pvF5oE",
+        "id": "37i9dQZF1DXah8e1pvF5oE",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000236b81bed99ab1527eea40913",
+            "width": null
+          }
+        ],
+        "name": "Piano 100: Spotify Picks",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU2ODU0MjA2MiwwMDAwMDAxNDAwMDAwMTZkMzQ2NDc2YmIwMDAwMDE2ZDE1M2I2YTQ0",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXah8e1pvF5oE/tracks",
+          "total": 101
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXah8e1pvF5oE"
+      },
+      {
+        "collaborative": false,
+        "description": "The perfect selection of relaxing, calm piano music to help you relax, sleep or focus. Classical piano pieces inspired by the old masters.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/04Bx6c3eZmYdWZRkQrLB7l"
+        },
+        "href": "https://api.spotify.com/v1/playlists/04Bx6c3eZmYdWZRkQrLB7l",
+        "id": "04Bx6c3eZmYdWZRkQrLB7l",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706c0000da84200be5376cb12e18242d721a",
+            "width": null
+          }
+        ],
+        "name": "Piano Relaxation",
+        "owner": {
+          "display_name": "Piano Relaxation",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/mooncyclemusic"
+          },
+          "href": "https://api.spotify.com/v1/users/mooncyclemusic",
+          "id": "mooncyclemusic",
+          "type": "user",
+          "uri": "spotify:user:mooncyclemusic"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MjY5LDdhNzAwOTljY2MwZjA0OThiMmQ3NDE3MzM3NTc4ZmEyNTU0NTRlMGU=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/04Bx6c3eZmYdWZRkQrLB7l/tracks",
+          "total": 150
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:04Bx6c3eZmYdWZRkQrLB7l"
+      },
+      {
+        "collaborative": false,
+        "description": "Piano songs to soundtrack your dinner.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWZVU32KsYGUK"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZVU32KsYGUK",
+        "id": "37i9dQZF1DWZVU32KsYGUK",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002b14c8a7b8e87c07811b6ffc9",
+            "width": null
+          }
+        ],
+        "name": "Piano Dinner",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU4NjM0MzU4OCwwMDAwMDA1MjAwMDAwMTcxNTk3MjMxMDEwMDAwMDE2ZDE1MWE2MDdm",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZVU32KsYGUK/tracks",
+          "total": 165
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWZVU32KsYGUK"
+      },
+      {
+        "collaborative": false,
+        "description": "Music to help you concentrate during your homework.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX47ov4h4oSjW"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX47ov4h4oSjW",
+        "id": "37i9dQZF1DX47ov4h4oSjW",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000029cf07006203e941cb469c681",
+            "width": null
+          }
+        ],
+        "name": "Piano Study",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU4NjY1NDI0MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX47ov4h4oSjW/tracks",
+          "total": 60
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX47ov4h4oSjW"
+      },
+      {
+        "collaborative": false,
+        "description": "Calming and inspiring piano music for yoga.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX7R7Bjxm48PR"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7R7Bjxm48PR",
+        "id": "37i9dQZF1DX7R7Bjxm48PR",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002a025b4183635726c027e2435",
+            "width": null
+          }
+        ],
+        "name": "Piano Yoga",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU4NjMzNTQ0MSwwMDAwMDAxODAwMDAwMTcxNThmNWUyOTUwMDAwMDE3MGM0OWIwOTgx",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7R7Bjxm48PR/tracks",
+          "total": 97
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX7R7Bjxm48PR"
+      },
+      {
+        "collaborative": false,
+        "description": "The finest Piano Jazz music for late in the evening to relax after a hard day of work or to simply enjoy your evening with a fine selection of smooth jazz music performed by great Pianists.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/7sotbwZsRAl6p7gvW8SakU"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7sotbwZsRAl6p7gvW8SakU",
+        "id": "7sotbwZsRAl6p7gvW8SakU",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706c0000da84e44301097d34f8a1e36cf19e",
+            "width": null
+          }
+        ],
+        "name": "Piano Jazz Late Night",
+        "owner": {
+          "display_name": "radathag",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/radathag"
+          },
+          "href": "https://api.spotify.com/v1/users/radathag",
+          "id": "radathag",
+          "type": "user",
+          "uri": "spotify:user:radathag"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTEyLDkzZGNkMWFjZjAyMDg3NTgxYmQxM2EzOWM5M2RiZjA5ZjQyY2U5NTA=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/7sotbwZsRAl6p7gvW8SakU/tracks",
+          "total": 61
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7sotbwZsRAl6p7gvW8SakU"
+      },
+      {
+        "collaborative": false,
+        "description": "Huge collection of beautiful insturmental piano worship hymns.  Great for spiritual meditation, Bible study, relaxing, or just for worship and enjoyment.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/6gHpmLdss6iqZcgHmJ97AF"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6gHpmLdss6iqZcgHmJ97AF",
+        "id": "6gHpmLdss6iqZcgHmJ97AF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2731a2ccfe56055945f7230ecefab67616d0000b27325d8c487d4186ca78b8d5c37ab67616d0000b2732a9995d7b449417eb1632d58ab67616d0000b2738085597ccf70a53796457e5f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2731a2ccfe56055945f7230ecefab67616d0000b27325d8c487d4186ca78b8d5c37ab67616d0000b2732a9995d7b449417eb1632d58ab67616d0000b2738085597ccf70a53796457e5f",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2731a2ccfe56055945f7230ecefab67616d0000b27325d8c487d4186ca78b8d5c37ab67616d0000b2732a9995d7b449417eb1632d58ab67616d0000b2738085597ccf70a53796457e5f",
+            "width": 60
+          }
+        ],
+        "name": "PIANO HYMNS - INSTRUMENTALS",
+        "owner": {
+          "display_name": "Scott Riley",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/3s5u9asod16dpdu02lpfeq02n"
+          },
+          "href": "https://api.spotify.com/v1/users/3s5u9asod16dpdu02lpfeq02n",
+          "id": "3s5u9asod16dpdu02lpfeq02n",
+          "type": "user",
+          "uri": "spotify:user:3s5u9asod16dpdu02lpfeq02n"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MjQsODU4NjNhODIxZWEzM2Q4YzdjMzcwMjAzNDQ0YjdkMGJlOTBhOTgyNg==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/6gHpmLdss6iqZcgHmJ97AF/tracks",
+          "total": 80
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6gHpmLdss6iqZcgHmJ97AF"
+      },
+      {
+        "collaborative": false,
+        "description": "A playlist of instrumental piano covers. Send us your piano covers using this <a href=\"https://forms.gle/G2qTzJyvczxnUt878\">link</a>. 👈 🎹",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/2OZVlENh6kAfqpRyPIPyl7"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2OZVlENh6kAfqpRyPIPyl7",
+        "id": "2OZVlENh6kAfqpRyPIPyl7",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706c0000da845a7cc83d3a64636821854050",
+            "width": null
+          }
+        ],
+        "name": "Piano Covers",
+        "owner": {
+          "display_name": "musicdesigngroup",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/musicdesigngroup"
+          },
+          "href": "https://api.spotify.com/v1/users/musicdesigngroup",
+          "id": "musicdesigngroup",
+          "type": "user",
+          "uri": "spotify:user:musicdesigngroup"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MjE5LGQ3NjU5MmE4MDAyZTQ4ZTY1NDE1YjQ0ZTRhMmQ5MGYxMTRkYTFlYjA=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/2OZVlENh6kAfqpRyPIPyl7/tracks",
+          "total": 88
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2OZVlENh6kAfqpRyPIPyl7"
+      },
+      {
+        "collaborative": false,
+        "description": "The piano versions of some of the most popular pop songs in the world. Currently features hits from Maroon 5, Taylor Swift, Lewis Capaladi, Lady Gaga, The Greatest Showman, and more.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/0rQ6rCJcT6gGk3VUMGXdfU"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0rQ6rCJcT6gGk3VUMGXdfU",
+        "id": "0rQ6rCJcT6gGk3VUMGXdfU",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706c0000da84cd0f06b63c31470fbdeb73f5",
+            "width": null
+          }
+        ],
+        "name": "Piano Pop Covers",
+        "owner": {
+          "display_name": "Cassie Petrey",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/cassiepetrey"
+          },
+          "href": "https://api.spotify.com/v1/users/cassiepetrey",
+          "id": "cassiepetrey",
+          "type": "user",
+          "uri": "spotify:user:cassiepetrey"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MjE3LDEwOWZhNTdiMzgzMzBlYzFmZjIyMThiNzA0N2Q4MmQ4N2U2OGUyYjI=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/0rQ6rCJcT6gGk3VUMGXdfU/tracks",
+          "total": 38
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0rQ6rCJcT6gGk3VUMGXdfU"
+      },
+      {
+        "collaborative": false,
+        "description": "Calm piano music for sleeping.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX03b46zi3S82"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX03b46zi3S82",
+        "id": "37i9dQZF1DX03b46zi3S82",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000028257266b22638a81f18ad2bb",
+            "width": null
+          }
+        ],
+        "name": "Sleepy Piano",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU4NjI1ODA1NCwwMDAwMDAyYTAwMDAwMTcxNTQ1OTBiOWQwMDAwMDE3MGM0YzM2OWFl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX03b46zi3S82/tracks",
+          "total": 156
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX03b46zi3S82"
+      },
+      {
+        "collaborative": false,
+        "description": "Kick back with a collection of classic piano rock and pop.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWVUSF6gmaR8i"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVUSF6gmaR8i",
+        "id": "37i9dQZF1DWVUSF6gmaR8i",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f0000000205e3047276986a3f4abe8148",
+            "width": null
+          }
+        ],
+        "name": "The Piano Lounge",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTU4NjY1NDIyOSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVUSF6gmaR8i/tracks",
+          "total": 40
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWVUSF6gmaR8i"
+      },
+      {
+        "collaborative": false,
+        "description": "Only quiet, relaxing piano music. Both traditional and contemporary pieces. Feel free to suggest additional tracks, but only the best gets added!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/16bZydWwAj14jmTlG7m1N3"
+        },
+        "href": "https://api.spotify.com/v1/playlists/16bZydWwAj14jmTlG7m1N3",
+        "id": "16bZydWwAj14jmTlG7m1N3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2732523c85161a778b6edeb04afab67616d0000b27367d473a7bb6ae7b13e4311eaab67616d0000b273b2f78062aaa97743545f6d89ab67616d0000b273cb1c3e6b2aef97c3b16419a0",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2732523c85161a778b6edeb04afab67616d0000b27367d473a7bb6ae7b13e4311eaab67616d0000b273b2f78062aaa97743545f6d89ab67616d0000b273cb1c3e6b2aef97c3b16419a0",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2732523c85161a778b6edeb04afab67616d0000b27367d473a7bb6ae7b13e4311eaab67616d0000b273b2f78062aaa97743545f6d89ab67616d0000b273cb1c3e6b2aef97c3b16419a0",
+            "width": 60
+          }
+        ],
+        "name": "Piano Music",
+        "owner": {
+          "display_name": "Thomas Bjerring",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/113177832"
+          },
+          "href": "https://api.spotify.com/v1/users/113177832",
+          "id": "113177832",
+          "type": "user",
+          "uri": "spotify:user:113177832"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTI1LDEwZmY4ZTU3YWYzODdiZDExMmU1NmJhOThjOTM5YjI0MDBlNmM2Yjc=",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/16bZydWwAj14jmTlG7m1N3/tracks",
+          "total": 138
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:16bZydWwAj14jmTlG7m1N3"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/search?query=piano&type=playlist&offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 164018
+  }
+}

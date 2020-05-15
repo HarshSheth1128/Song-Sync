@@ -1,0 +1,13 @@
+@mixin InfoSection {
+  .detail-paper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #c4c4c4;
+    text-align: center;
+
+    .empty-text {
+      margin: 20px;
+    }
+  }
+}

@@ -1,0 +1,75 @@
+@mixin MainPage {
+	.main-page-root {
+		font-family: $base-font;
+		display: flex;
+		height: 100vh;
+		width: 100%;
+		background-color: rgba(2, 2, 4, 0.8);
+		flex-direction: row;
+		align-items: center;
+
+		.left-container {
+			display: flex;
+			align-items: center;
+			height: 100vh;
+			width: 50%;
+
+			.left-content-container {
+				display: flex;
+				flex-direction: column;
+				height: 80%;
+				width: 100%;
+				padding-left: 15%;
+				padding-right: 10%;
+				box-sizing: border-box;
+
+				.search-container {
+					height: 70px;
+					margin-bottom: 10px;
+				}
+
+				.item-container {
+					flex-grow: 1;
+					width: 100%;
+					box-sizing: border-box;
+					box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+					border-radius: 10px;
+					border: 2px solid #595959;
+					background-color: #595959;
+					padding: 10px;
+					box-sizing: border-box;
+					overflow: scroll;
+				}
+
+			}
+
+			
+		}
+
+		.right-container {
+			display: flex;
+			align-items: center;
+			height: 100vh;
+			width: 50%;
+		}
+
+		.detail-paper {
+			height: 80%;
+			width: 100%;
+			background-color: #595959;
+			margin-left: 5%;
+			margin-right: 15%;
+			border: 2px solid #595959;
+			box-sizing: border-box;
+			box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+			border-radius: 10px;
+    }
+    
+    .toast-container {
+      position: absolute;
+      right: 20px;
+      bottom: 20px;
+      z-index: 10;
+    }
+	}
+}

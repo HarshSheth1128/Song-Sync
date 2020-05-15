@@ -1,0 +1,10 @@
+$base-font: 'Lato', sans-serif;
+
+@mixin fonts {
+	.title {
+		font-family: 'Patua One', cursive;
+	}
+	.subtitle {
+		font-family: 'Lato', sans-serif;
+	}
+}

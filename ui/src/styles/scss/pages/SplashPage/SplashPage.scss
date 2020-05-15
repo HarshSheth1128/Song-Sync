@@ -1,0 +1,106 @@
+@mixin SplashPage {
+  .login-root{
+    position: absolute;
+    top: 0px;
+    background: radial-gradient(circle, rgba(15,15,17,0.8) 0%, rgba(2,2,4,0.8) 59%);
+    height: 100vh;
+    width: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    > .title-content {
+      width: 100%;
+
+      >.title-container {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        .main-title{
+          font-size: 5rem;
+          font-family: Lato;
+          font-weight: bolder;
+        }
+        .main-subtitle{
+          font-family: Lato;
+          font-size: 1rem;
+        }
+
+        .button-container{
+          display: flex;
+          flex-direction: row;
+        }
+
+        .button-primary {
+          margin: 20px 20px;
+          padding: 5px 40px;
+        }
+
+      }
+
+
+    }
+
+    .steps-container {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+
+      >.step-container {
+        margin: 10px;
+        display: flex;
+        flex-direction: column;
+        width: 30%;
+        background-color: rgba(0, 0, 0, 0.08);
+        border-radius: 10px;
+        margin: 0 10px;
+        padding: 10px;
+
+        >.step-title {
+          font-size: 1.3rem;
+          font-weight: bolder;
+          font-family: Lato;
+          text-align: center;
+          background-color: rgba(0, 0, 0, 0.08);
+          border-radius: 5px;
+          padding: 5px 10px;
+          margin: 0 0 10px 0;
+
+        }
+        >.step-subtext{
+          display: flex;
+          flex-direction: column;
+
+          .step-subtitle {
+            font-family: Lato;
+            text-align: center;
+            font-size: 1.2rem;
+            margin-bottom: 5px;
+            font-weight: bold;
+          }
+
+          .subtitle-content {
+            font-family: Lato;
+            text-align: center;
+            font-size: 0.8em;
+          }
+        }
+      }
+    }
+  }
+
+
+
+
+  @keyframes bounce {
+    0% {transform: translateY(-10px);}
+    40% {transform: translateY(0px);}
+    60% {transform: translateY(-5px);}
+    80% {transform: translateY(0px);}
+    100% {transform: translateY(-10px);}
+  }
+}

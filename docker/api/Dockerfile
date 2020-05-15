@@ -16,6 +16,9 @@ RUN npm install
 # Install nodemon
 RUN npm install -g nodemon
 
+# Install knex
+RUN npm install -g knex
+
 # Copy the contents of this folder to /api
 EXPOSE 80
 

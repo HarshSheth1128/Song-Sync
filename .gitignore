@@ -23,3 +23,7 @@ ui/node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#keys
+/api/src/helpers/auth
+/api/src/helpers/keys

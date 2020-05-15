@@ -1,5 +1,121 @@
-body {
-    .test{
-        background-color: red($color: #000000);
+@mixin LoginPage {
+  .user-page-root {
+		font-family: $base-font;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+		height: 100vh;
+		width: 100%;
+    background-color: rgba(2, 2, 4, 0.8);
+
+    .content-container {
+      color: white;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      width: 40%;
+      
+      .title {
+        font-family: Lato;
+        font-weight: bold;
+        font-size: 5em;
+      }
+
+      .step-container {
+        background-color: rgba(0, 0, 0, 0.08);
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        border-radius: 5px;
+        margin-top: 10px;
+        padding: 20px;
+        box-sizing: border-box;
+        align-items: center;
+
+        #apple-music-authorize {
+          color: black;
+          background-color: white;
+          border: 2px solid black;
+          display: flex;
+          align-items: center;
+          padding: 10px 50px;
+          margin: 10px;
+          border-radius: 5px;
+          font-size: 1em;
+          transition: background-color 0.5s ease;
+          box-sizing: border-box;
+  
+          .apple-icon {
+            max-height: 20px;
+            max-width: 20px;
+            margin-right: 10px;
+            transition: opacity 0.5s ease;
+            opacity: 1;
+            color: white;
+          }
+        }
+  
+        #apple-music-authorize:hover {
+          background-color: rgb(126, 126, 126);
+        }
+  
+        .step-span {
+          background-color: rgba(0, 0, 0, 0.08);
+          padding: 5px;
+          box-sizing: border-box;
+          text-align: center;
+          width: 100%;
+        }
+  
+  
+        .user-info-form {
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          padding: 0 20px;
+    
+    
+          .user-input {
+            color: white;
+            background-color: rgba(2, 2, 4, 0.0);
+            border: 1px solid white;
+            border-radius: 5px;
+            padding: 10px;
+            width: 100%;
+            margin: 10px 0px;
+          }
+  
+          .new-user-done-button {
+            border-radius: 5px;
+            background-color: rgba(0,0,0,0.0);
+            color: white;
+            border: 1px solid white;
+            transition: background-color 0.5s ease;
+            padding: 5px 40px;
+            margin-top: 10px;
+          }
+  
+          .new-user-done-button:hover {
+            border-radius: 5px;
+            background-color: rgba(255,255,255,1);
+            color: black;
+            border: 1px solid white;
+          }
+  
+          .new-user-done-button:focus {
+            outline: none;
+          }
+        }
+      }
+
     }
+
+
+  }
 }

@@ -1,6 +1,8 @@
 # Song-Sync
 A javascript monorepo application which allows users to sync playlists from spotify to apple music
 
+**Note:** Song-sync is currently in development. It will most likely be published Fall 2020.
+
 ## What is this application
 I designed this application in order to solve the problem of terrible Apple Music curation. For many genre's of music, Spotify provides free curated playlists for users. As of now on quality solution exists to regularly sync songs between platforms.
 It is my hope that Song-Sync can fill this void.

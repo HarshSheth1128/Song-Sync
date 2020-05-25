@@ -6,6 +6,9 @@ I designed this application in order to solve the problem of terrible Apple Musi
 It is my hope that Song-Sync can fill this void.
 
 ## Screenshots
+Here are some screenshots of the application in development
+
+![Splash page](https://imgur.com/rMsFE5q "Splash Page")
 
 ## Tech Stack
 

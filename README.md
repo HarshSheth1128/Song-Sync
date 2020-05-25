@@ -20,7 +20,7 @@ Here are some screenshots of the application in development
 I am using React on the frontend with sass to preprocess the CSS.
 
 ### Back-end
-On the backend we're using Express and a MySQL database. The databse will be hosted using a service like Amazon RDS.
+On the backend I'm using Express and a MySQL database. The databse will be hosted using a service like Amazon RDS.
 
 ### Hosting
 I plan on hosting this application on AWS, primarily because it is cheap and reliable 

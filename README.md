@@ -8,7 +8,7 @@ It is my hope that Song-Sync can fill this void.
 ## Screenshots
 Here are some screenshots of the application in development
 
-![Splash page](https://imgur.com/rMsFE5q "Splash Page")
+![Splash page](https://i.imgur.com/rMsFE5q.png "Splash Page")
 
 ## Tech Stack
 

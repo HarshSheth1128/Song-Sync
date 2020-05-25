@@ -10,6 +10,10 @@ Here are some screenshots of the application in development
 
 ![Splash page](https://i.imgur.com/rMsFE5q.png "Splash Page")
 
+![Main page](https://i.imgur.com/W0CC38g.png "Main Page")
+
+![Main page empty] (https://i.imgur.com/uoDTkQg.png "Main Page Empty")
+
 ## Tech Stack
 
 ### Front-end

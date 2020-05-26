@@ -19,10 +19,10 @@ Here are some screenshots of the application in development
 ## Tech Stack
 
 ### Front-end
-I am using React on the frontend with sass to preprocess the CSS.
+I am using React on the frontend with sass to preprocess the CSS. All the components and UI/UX are designed completely on my own.
 
 ### Back-end
-On the backend I'm using Express and a MySQL database. The databse will be hosted using a service like Amazon RDS.
+On the backend I'm using Express and a MySQL database. The database will be hosted using a service like Amazon RDS. I will have to use a AWS lamba with a cron job to perform the sync.
 
 ### Hosting
 I plan on hosting this application on AWS, primarily because it is cheap and reliable 
